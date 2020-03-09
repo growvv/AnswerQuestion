@@ -22,3 +22,6 @@
 3. 修改client/config.js,修改请求地址为腾讯云解决方案分配的域名。修改appId为你的appId。
 4. 修改server/config.js,修改appId、appSecret为你自己的，默认的数据库密码为appId。
 5. 真机上测试注意打开调试默认，绕过域名检测。
+
+### 效果
+https://cdn.jsdelivr.net/gh/growvv/AnswerQuestion/imgs_md/1.gif
