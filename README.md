@@ -24,4 +24,4 @@
 5. 真机上测试注意打开调试默认，绕过域名检测。
 
 ### 效果
-[https://cdn.jsdelivr.net/gh/growvv/AnswerQuestion/imgs_md/1.gif](https://cdn.jsdelivr.net/gh/growvv/AnswerQuestion/imgs_md/1.gif)
+![https://cdn.jsdelivr.net/gh/growvv/AnswerQuestion/imgs_md/1.gif](https://cdn.jsdelivr.net/gh/growvv/AnswerQuestion/imgs_md/1.gif)
